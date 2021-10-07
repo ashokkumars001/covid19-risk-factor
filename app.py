@@ -1,4 +1,4 @@
-def find_top_confirmed(n = 35):
+def find_top_confirmed(n = 15):
 
     import pandas as pd
     corona_df=pd.read_csv("Covid-19.csv")
